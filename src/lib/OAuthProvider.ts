@@ -1,5 +1,5 @@
 import * as fs from 'fs'
-import * as got from 'got'
+import got from 'got'
 import * as os from 'os'
 const homedir = os.homedir()
 import pkg = require('../../package.json')
